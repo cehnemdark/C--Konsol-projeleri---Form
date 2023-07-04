@@ -1,0 +1,17 @@
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\bin\Debug\net6.0-windows\SayıTekMiCiftMi.exe
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\bin\Debug\net6.0-windows\SayıTekMiCiftMi.deps.json
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\bin\Debug\net6.0-windows\SayıTekMiCiftMi.runtimeconfig.json
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\bin\Debug\net6.0-windows\SayıTekMiCiftMi.dll
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\bin\Debug\net6.0-windows\SayıTekMiCiftMi.pdb
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.csproj.AssemblyReference.cache
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.Form1.resources
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.csproj.GenerateResource.cache
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.AssemblyInfoInputs.cache
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.AssemblyInfo.cs
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.csproj.CoreCompileInputs.cache
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.dll
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\refint\SayıTekMiCiftMi.dll
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.pdb
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\SayıTekMiCiftMi.genruntimeconfig.cache
+C:\Users\cehen\source\repos\SayıTekMiCiftMi\SayıTekMiCiftMi\obj\Debug\net6.0-windows\ref\SayıTekMiCiftMi.dll

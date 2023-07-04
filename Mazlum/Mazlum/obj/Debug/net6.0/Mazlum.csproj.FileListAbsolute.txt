@@ -1,0 +1,15 @@
+C:\Users\cehen\source\repos\Mazlum\Mazlum\bin\Debug\net6.0\Mazlum.exe
+C:\Users\cehen\source\repos\Mazlum\Mazlum\bin\Debug\net6.0\Mazlum.deps.json
+C:\Users\cehen\source\repos\Mazlum\Mazlum\bin\Debug\net6.0\Mazlum.runtimeconfig.json
+C:\Users\cehen\source\repos\Mazlum\Mazlum\bin\Debug\net6.0\Mazlum.dll
+C:\Users\cehen\source\repos\Mazlum\Mazlum\bin\Debug\net6.0\Mazlum.pdb
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.csproj.AssemblyReference.cache
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.AssemblyInfoInputs.cache
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.AssemblyInfo.cs
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.csproj.CoreCompileInputs.cache
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.dll
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\refint\Mazlum.dll
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.pdb
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\Mazlum.genruntimeconfig.cache
+C:\Users\cehen\source\repos\Mazlum\Mazlum\obj\Debug\net6.0\ref\Mazlum.dll

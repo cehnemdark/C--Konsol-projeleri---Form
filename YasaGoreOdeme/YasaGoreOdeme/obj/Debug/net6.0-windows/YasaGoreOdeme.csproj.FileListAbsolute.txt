@@ -1,0 +1,17 @@
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\bin\Debug\net6.0-windows\YasaGoreOdeme.exe
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\bin\Debug\net6.0-windows\YasaGoreOdeme.deps.json
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\bin\Debug\net6.0-windows\YasaGoreOdeme.runtimeconfig.json
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\bin\Debug\net6.0-windows\YasaGoreOdeme.dll
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\bin\Debug\net6.0-windows\YasaGoreOdeme.pdb
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.csproj.AssemblyReference.cache
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.Form1.resources
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.csproj.GenerateResource.cache
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.AssemblyInfoInputs.cache
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.AssemblyInfo.cs
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.csproj.CoreCompileInputs.cache
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.dll
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\refint\YasaGoreOdeme.dll
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.pdb
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\YasaGoreOdeme.genruntimeconfig.cache
+C:\Users\cehen\source\repos\YasaGoreOdeme\YasaGoreOdeme\obj\Debug\net6.0-windows\ref\YasaGoreOdeme.dll

@@ -1,0 +1,7 @@
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.csproj.AssemblyReference.cache
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.Form1.resources
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.csproj.GenerateResource.cache
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.AssemblyInfoInputs.cache
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.AssemblyInfo.cs
+C:\Users\cehen\source\repos\SecimeNeKadaKaldı\SecimeNeKadaKaldı\obj\Debug\net6.0-windows\SecimeNeKadaKaldı.csproj.CoreCompileInputs.cache
